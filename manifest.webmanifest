@@ -1,0 +1,19 @@
+{
+  "name": "Mi amiga la vaca",
+  "short_name": "Mi amiga la vaca",
+  "description": "Gestión ganadera simple para pequeños productores.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ed",
+  "theme_color": "#286445",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "es"
+}
